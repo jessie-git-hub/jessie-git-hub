@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jessie-git-hub
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on django projects
+- 📫 How to reach me ‪(512) 593-8758‬ or jessie.mailstop@gmail.com
