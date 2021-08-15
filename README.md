@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on django projects
-- 📫 How to reach me ‪(512) 593-8758‬ or jessie.mailstop@gmail.com
+- 📫 How to reach me ‪jessie.mailstop@gmail.com
